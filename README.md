@@ -63,7 +63,6 @@ Recommended Reading: http://diego-pacheco.blogspot.com/2021/01/requirements-are-
 
 Example:
 
-```
 
 ### 🏗️ 4. Overall Diagrams
 
