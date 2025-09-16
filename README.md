@@ -2,14 +2,23 @@
 
 
 ❌ Lambda NÃO permitido
+
 ❌ Monólitos NÃO permitidos
+
 ❌ Single AZ NÃO permitido
+
 ❌ Ionic NÃO permitido
+
 ✅ Mobile nativo apenas (Swift ou Kotlin)
+
 ❌ MongoDB NÃO permitido
+
 ❌ Apenas uma base relacional NÃO é permitido
+
 ✅ podemos usar múltiplas bases relacionais??
+
 ❌ Outras clouds NÃO permitidas
+
 ✅ apenas AWS
 
 --------
